@@ -3,30 +3,30 @@ entries:
   inference:
   - apiVersion: v1
     appVersion: "0.0.1"
-    created: 2019-05-14T15:31:27.967974-05:00
+    created: 2020-01-20T15:54:27.967974-05:00
     description: Helm Chart for hardhat inference Server
     digest: 63aecbb26be60f4850ab6bb59ef6fe4558ccd9f8a2cc6a73c50642b876ac6782
     name: inference
     urls:
-    - https://raw.githubusercontent.com/srinivas511/inference-server-repo/master/inference-0.0.9.tgz
+    - https://raw.githubusercontent.com/commgsc/mwc-inference-charts/master/inference-0.0.9.tgz
     version: 0.0.9
   boxinference:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-07-17T16:46:27.967974-05:00
+    created: 2020-01-20T15:54:27.967974-05:00
     description: A Helm chart for Box Inference Model
     digest: 63aecbb26be60f4850ab6bb59ef6fe4558ccd9f8a2cc6a73c50642b876ac6782
     name: boxinference
     urls:
-    - https://raw.githubusercontent.com/srinivas511/inference-server-repo/master/boxinference-0.1.0.tgz
+    - https://raw.githubusercontent.com/commgsc/mwc-inference-charts/master/boxinference-0.1.0.tgz
     version: 0.1.0
   va-ui:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-08-15T17:01:16
+    created: 2020-01-20T15:54:16.000
     description: A Helm chart for IVA UI
     digest: 63aecbb26be60f4850ab6bb59ef6fe4558ccd9f8a2cc6a73c50642b876ac6782
     name: va-ui
     urls:
-    - https://raw.githubusercontent.com/srinivas511/inference-server-repo/master/va-ui-1.0.0.tgz
+    - https://raw.githubusercontent.com/commgsc/mwc-inference-charts/master/va-ui-1.0.0.tgz
     version: 1.0.0
